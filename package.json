@@ -1,0 +1,30 @@
+{
+  "name": "advanced-local-session",
+  "version": "1.0.0",
+  "main": "lib/session.js",
+  "type": "module",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XBEHOLI/advanced-session-local.git"
+  },
+  "keywords": [
+    "telegram",
+    "telegram bot",
+    "advanced session local",
+    "advanced session",
+    "session",
+    "middleware",
+    "database",
+    "local database",
+    "json",
+    "lowdb",
+    "db"
+  ],
+  "author": "XBEHOLI",
+  "license": "ISC",
+  "description": ""
+}
