@@ -1,6 +1,6 @@
 {
   "name": "advanced-local-session",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "lib/session.js",
   "type": "module",
   "directories": {
