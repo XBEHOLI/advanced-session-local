@@ -42,7 +42,7 @@ bot.launch();
       "counter": 5
     }
   },
-  "global": {
+  "globals": {
     "dev_mode": false,
     "admins": [123456789]
   }
