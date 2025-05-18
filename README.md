@@ -16,7 +16,7 @@ import { AdvancedLocalSession } from 'advanced-local-session';
 const bot = new Telegraf('YOUR_BOT_TOKEN');
 const session = new AdvancedLocalSession({
   storagePath: './sessions.json', // Путь к файлу для хранения
-  globalSettings: {
+  global: {
     dev_mode: false,
     admins: [123456789] // ID администраторов
   },
@@ -42,7 +42,7 @@ bot.launch();
       "counter": 5
     }
   },
-  "globals": {
+  "global": {
     "dev_mode": false,
     "admins": [123456789]
   }
